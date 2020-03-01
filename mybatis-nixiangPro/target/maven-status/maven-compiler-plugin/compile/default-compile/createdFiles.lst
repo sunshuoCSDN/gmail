@@ -1,0 +1,4 @@
+com\sun\entity\UmsMember.class
+com\sun\entity\pmsBaseCatalog3.class
+com\sun\dao\pmsBaseCatalog3Mapper.class
+com\sun\dao\UmsMemberMapper.class
